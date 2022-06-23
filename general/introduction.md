@@ -6,7 +6,7 @@ description: What Are Endros?
 
 ## About Endros
 
-Endros are droids constructed by an [Obifex Machine](../gameplay/opifex-machine.md) using the blueprints provided by the citizens of [the Engaverse](introduction.md#engaverse). They are represented by NFTs living on Polygon network, backed by ERC-721 standard. Their values are determined by level/experience and rarity score, which is calculated based on multiple factors, such as their stats, amount of staked collateral, and equipped wearables. Endros are representatives of their own realm to compete for glory and prize.
+Endros are droids constructed by an [Obifex Machine](../gameplay/opifex-machine.md) using the blueprints and controlled by the citizens of [the Engaverse](introduction.md#engaverse). They are represented by NFTs living on Polygon network, backed by ERC-721 standard. Their values are determined by level/experience and rarity score, which is calculated based on multiple factors, such as their stats, amount of staked collateral, and equipped wearables. Endros are representatives of their own realm where they have been manufactured to mobilize a strong army.
 
 Players can participate in [games](../gameplay/games.md), and [governance](../communities/dao.md) to gain experience, upgrade, level up their Endro, and enjoy their time. You could have the rarest Endros and gain rewards in our native token, "[ENGA](../tokenomic-land/enga-token.md)", in [Rarity Farming](../gameplay/rarity-farming.md) - a completely on-chain mini-game that rewards the rarest Endros with ENGA token.
 
@@ -23,7 +23,7 @@ To clarify, staked collaterals are another term for the [Power Source](../tokeno
 Endros possess multiple traits. These traits are used to determine the stats, appearance, and other attributes of the Endro.
 
 * **Random Traits:** Once candidate's blueprints are indexed by the [Obifex Machine](../gameplay/opifex-machine.md), Obifex, using ChainLink VRF, evaluates the traits of the Endro. There are two types of these traits:
-  1. **Appearance:** They don't affect [Rarity Score](introduction.md#rarity-score), and they are chosen randomly with an equal chance for each. Appearance traits include gender, skin, eyebrows, and eyes. These traits do not influence or affect gameplay or rarity farming in any way. Although it's worth mentioning that some [Cosmetic Wearables](../gameplay/wearables/cosmetics.md) may only belong to a specific gender.
+  1. **Appearance:** They don't affect [Rarity Score](introduction.md#rarity-score), and they are chosen randomly with an equal chance for each. These traits do not influence or affect gameplay or rarity farming in any way.
   2. **Stats and their BRS:** Stats are crucially important, and they represent the RPG elements of Engaverse. Their values are distributed on a bell curve AKA "Normal Distribution":\
      ![](../.gitbook/assets/bell-curve.png)\
      Depending on its rarity, each stat is assigned a value of Common, Uncommon, Rare or Mythical, which represents a numeric value in the range of 0 to 99. The stats are Strength, Dexterity, Constitution, Mentality, Common-Skills (CS), and Aggressiveness. Every stat has at least a minimum value of 50 for its Base Rarity Score aka BRS. For example if generated random number for stat is 2, then based on the formula below, the in-game stat value and its respective BRS is 97. In other words, a low value like 1 is not considered bad, on the contrary, it is as good as number 98. BRS is calculated like the following:\
@@ -31,16 +31,20 @@ Endros possess multiple traits. These traits are used to determine the stats, ap
      `else return 99 - randomNumber;`\
      `//there is no value lower than 50`
 * **Zeal:** It defines the level of relationship between the Endro and the owner. It increases or decreases based on how often the owner interacts with the Endro and also how long it has been with the same owner. This trait is not randomly assigned, but rather starts at a fixed value. Moreover, it acts as a constraint to limit stat modifiers given by [Chipset Cards](../gameplay/wearables/chipset-cards.md). Zeal limits the effects of stat modifiers to a range of +/-1 to +/-8.
-* **Realm:** As the name suggests, there are realms or in other terms classes, that each Endro belongs to. The realm each Endro belongs to is selected randomly. The probability for each realm is decided by the Enga Federation for each season.
-* **Level, Experience (XP) and MeritPoint:** Just like any RPG game, Endros level up when they gain XP. It could be gained by voting in the Enga Federation aka "ENGADAO" and also participating in games. Each successive level requires more XP to attain; therefore gaining levels gradually becomes tougher. Every three levels, Endros receive one MeritPoint that can be consumed to increasing or decreasing a certain trait value. Note that [Wearables](../gameplay/wearables/) require a minimum XP level to be equipped.
+* **Realm:** As the name suggests, there are realms or in other terms classes, that each Endro belongs to and manufactured in. The realm each Endro belongs to is selected randomly. The probability for each realm is decided by the Enga Federation for each season.
+* **Level, Experience (XP) and Merit Point:** Just like any RPG game, Endros level up when they gain XP. It could be gained by voting in the Enga Federation aka "ENGADAO" and also participating in games. Each successive level requires more XP to attain; therefore gaining levels gradually becomes tougher. Every level, Endros receive some Merit Points that can be consumed to increase or decrease a certain trait value. Note that [Wearables](../gameplay/wearables/) require a minimum XP level to be equipped.
 * **Rarity Score:** Rarity Score is a dynamically calculated trait based on stat values (their respective BRS in this case, not the raw value chosen on the bell curve) and cosmetic wearables the Endro has equipped. The BRS of cosmetics and all the stats combined form the rarity score. Some wearables, especially [Chipset Cards](../gameplay/wearables/chipset-cards.md), require a minimum rarity score to be equipped or consumed.
 * **Generation:** Blueprint production is done generation by generation, under the supervision of the Enga Federation. The number of Endros in each generation is also determined by them. Some [Cosmetics](../gameplay/wearables/cosmetics.md) may only belong to a specific generation.
+
+## Other Characteristics of the Realms
+
+Read more about this topic [here](../gameplay/characteristic-of-realms.md).
 
 ## Wearables
 
 They are NFTs backed by ERC-1155. With the aid of ERC-998 we could have NFTs own other NFTs, like an inventory system. It's where those wearables shine. Wearables are divided into two groups:
 
-First group are cosmetics, they are equipped to increase the rarity score and every one of them has their own BRS bonus value associated with. Some may need a minimum XP level and some may need a specific Generation to be equipped. There are also cosmetics which belong to only one Gender.
+First group are cosmetics, they are equipped to increase the rarity score and every one of them has their own BRS bonus value associated with. Some may need a minimum XP level and some may need a specific Generation to be equipped.
 
 {% hint style="success" %}
 They Increase Rarity Score with their associated BRS bonus value.
@@ -50,8 +54,6 @@ They Increase Rarity Score with their associated BRS bonus value.
 They might need a minimum XP level to be equipped.
 
 They might belong to a specific Generation.
-
-They might belong to a specific Gender.
 {% endhint %}
 
 The second group are Chipset Cards. Each CC has its own stat modifiers and, they are equipped to slightly change the value of certain stats, however they don't have a direct impact on BRS - indirectly they are altering the value of the stats which affects the BRS. Each Endro has 4 slots for chipset cards, although there is a constraint on stat modifiers, the range each stat can change is defined by the value of [Zeal](../gameplay/traits.md#zeal). For instance, based on the Zeal value, let's say the limit is +/-5, if you provide four CCs to change the value of one specific stat like Mentality and each CC has a modifier of +3 on that stat, unfortunately Mentality just shifts by +5 instead of +12.
@@ -98,11 +100,11 @@ The value of an Endro comes from its early blueprint and its rarity score.
 
 ### Base Value <a href="#base-value" id="base-value"></a>
 
-Base value of an Endro is calculated when you as a player index 10 blueprint candidates and pick the one you want to be constructed by a machine named [Opifex Machine](../gameplay/opifex-machine.md). It is also the minimum staked collateral needed for construction. If the candidate's needed collateral is 15 USD, then the base value is 15 USD, in addition to the extra interests accrued from the staking rewards. Other ERC20 tokens and Liquidity Pools (LP) could be added in the future by the Enga Federation and partnerships with other projects.
+Base value of an Endro is calculated when you as a player index 10 blueprint candidates and pick the one you want to be constructed by a machine named [Opifex Machine](../gameplay/opifex-machine.md). It is also the minimum staked collateral needed for construction. If the candidate's needed collateral is 15 USD, then the base value is 15 USD, in addition to the extra interests accrued from the staking rewards. Other ERC20 tokens and Liquidity Pools (LP) could be added in the future by the Enga Federation and partnerships with other projects, for now we only use our own native token as an collateral.
 
 ### Rarity Score
 
-As we mentioned above in the [Traits](introduction.md#traits) section, Rarity Score is a dynamic value that is assessed by the rareness of each Endro's traits and equipped cosmetics. Over time and with XP level growth your Endro can wear more valuable cosmetic wearables to increase its rarity score, it can also equip chipset cards or gain MeritPoint to modify its stats temporary or permanently respectively, which results in the alteration of their relevant Base Rarity Score (BRS). This system of dynamic rarity score that is introduced by Aavegotchi, has enabled a novel concept known as "Rarity Farming", which is explained [here](../gameplay/rarity-farming.md).
+As we mentioned above in the [Traits](introduction.md#traits) section, Rarity Score is a dynamic value that is assessed by the rareness of each Endro's traits and equipped cosmetics. Over time and with XP level growth your Endro can wear more valuable cosmetic wearables to increase its rarity score, it can also equip chipset cards or gain Merit Point to modify its stats temporary or permanently respectively, which results in the alteration of their relevant Base Rarity Score (BRS). This system of dynamic rarity score that is introduced by Aavegotchi, has enabled a novel concept known as "Rarity Farming", which is explained [here](../gameplay/rarity-farming.md).
 
 ## ENGAVERSE
 

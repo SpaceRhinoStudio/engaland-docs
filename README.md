@@ -26,4 +26,4 @@ Endros are the most advanced droids in the Engaverse, however, this technology i
 
 The five realms of the Engaverse refers to the five distinct planets which seem to be the only planets hosting intelligent and sentient beings. Each realm has their own unique culture and way of life, and the process of unifying their home planets was different for each realm.
 
-Due to evolving separately from each other, citizens of each realm have distinct characteristics, talents, and skills.
+Due to evolving separately from each other, citizens of each realm have distinct characteristics, talents, and skills. Their role is to control and develop Endros gradually.
