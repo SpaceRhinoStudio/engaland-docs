@@ -6,7 +6,7 @@ description: What Are The Characteristics Of Realms
 
 ## Introduction
 
-As we said before, each realm has its own culture and characteristics. In this section we are going to talk about realms.
+As we said before, each realm and corresponding citizens have their own culture and characteristics. Endros are manufactured in realms, so they come in different shapes of options and bonus.
 
 ## Realms
 
@@ -60,7 +60,7 @@ Each Endro can gain maximum 10 XP per day by playing the games and participating
 |   Sigr   |    8%    |
 | Komorebi |    2%    |
 
-### MeritPoint Bonus
+### Merit Point Bonus
 
 As an Endro levels up, it receives some MeritPoint as reward to let the player modify its stats. The way Enga Federation calculates this is for some level up period it rewards some extra amount of MeritPoint.
 

@@ -10,7 +10,7 @@ What is the Opifex Machine?
 
 Opifex Machines are highly advanced machines that are used to construct Endros. Upon the indexing of Endro blueprint candidates, you can pick one of the blueprints and construct the Endro. Indexing can only be done once per machine, and once indexed, the candidates will stay unmodified forever until one is picked for construction. Enga Federation is in full control of these machines, and they are also responsible for the production of these machines. For each generation, Enga Federation decides how many machines will be produced and how much each realm's contribution will be.
 
-With each generation, these machines can be modified, which means that the blueprints they can construct could be vastly different from the previous generations. In the first generation, Opifex Machines are fine-tuned to construct Endros that resemble the citizens of the five realms.
+With each generation, these machines can be modified, which means that the blueprints they can construct could be vastly different from the previous generations.
 
 Opifex Machines need a few things to function, a blueprint which could be picked from the indexing, and power source (staked collateral) that acts as a fuel to the machine. Once those are provided, the machine will begin constructing the Endro blueprint.
 

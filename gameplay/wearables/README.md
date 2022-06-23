@@ -6,7 +6,7 @@ description: Rarity Score Enhancement, Stat Modifiers
 
 ## Introduction
 
-Wearables are a crucial part of the Engaverse. They are NFTs which you can in your Endro's inventory. When one of your Endros possesses or equips a wearable, that wearable stays in that particular Endro's inventory and, it will be owned by that Endro until you transfer it.
+Wearables are a crucial part of the Engaverse. They are NFTs which you can see in your Endro's inventory. When one of your Endros possesses or equips a wearable, that wearable stays in that particular Endro's inventory and, it will be owned by that Endro until you transfer it again.
 
 Should you wish to sell your Endro on a marketplace, you should be aware that all the wearables the Endro owns and wears will be sold alongside it as well.
 

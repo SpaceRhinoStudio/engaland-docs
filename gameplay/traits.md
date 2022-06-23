@@ -6,7 +6,7 @@ description: Let's Explore The Characteristics Of An Endro
 
 ## Introduction
 
-Just as you would describe a person as intelligent, strong, or beautiful, you could do the same for Endros. These traits and characteristics define an Endro's identity, what they are good at, and where their weaknesses lie. An Endro's traits influence their [Rarity Scores](traits.md#rarity-scores), appearance, (in-game) performance, and the wearables they are allowed to wear or equip. Traits consist of [Stats](traits.md#stats), [Appearances](traits.md#appearance), [Experience](traits.md#experience), [Zeal ](traits.md#zeal), [Generation ](traits.md#generation)and [Realm](traits.md#classification). They are randomly generated upon indexing, however, it is possible to modify them using [Cosmetics](wearables/cosmetics.md), [Chipset Cards](wearables/chipset-cards.md), and [Consumables](consumables.md).
+Just as you would describe a person as intelligent, strong, or beautiful, you could do the same for Endros. These traits and characteristics define an Endro's identity, what they are good at, and where their weaknesses lie. An Endro's traits influence their [Rarity Scores](traits.md#rarity-scores), appearance, (in-game) performance, and the wearables they are allowed to wear or equip. Traits consist of [Stats](traits.md#stats), [Appearances](traits.md#appearance), [Experience](traits.md#experience), [Zeal ](traits.md#zeal), [Generation ](traits.md#generation)and [Realm](traits.md#classification). They are randomly generated upon indexing, however, it is possible to modify some of them using [Cosmetics](wearables/cosmetics.md), [Chipset Cards](wearables/chipset-cards.md), and [Consumables](consumables.md).
 
 ## Randomly Generated Traits
 
@@ -14,9 +14,7 @@ Upon indexing candidates, every blueprint has a number of randomly generated tra
 
 ### Appearance
 
-These stats do not affect the rarity score and are chosen completely random with an equal chance for each one. These are gender, skin tone, eyebrows, eyes, and nose and none of them have any effects on the performance of the Endro in games, or the [Rarity Farming](rarity-farming.md). First generation Endros look like the citizens of Engaverse in appearance.
-
-Although it's worth mentioning that some [Cosmetic Wearables](wearables/cosmetics.md) may only belong to a specific gender.
+These stats do not affect the rarity score and are chosen completely random with an equal chance for each one. The don't have any effects on the performance of the Endro in games, or the [Rarity Farming](rarity-farming.md).
 
 ### Stats
 
@@ -110,9 +108,9 @@ Once the Endro has enough experience, it can level up. Each level requires more 
 Each wearable requires a minimum level to be equipped.
 {% endhint %}
 
-### MeritPoint
+### Merit Point
 
-Every one level up, Endros receive an amount of MeritPoints that can be used on increasing or decreasing a stat value. Each change to a stat value costs various amounts of MeritPoints based on the rarity type of the stat.
+Every one level up, Endros receive an amount of Merit Points that can be used on increasing or decreasing a stat value. Each change to a stat value costs various amounts of Merit Points based on the rarity type of the stat.
 
 {% hint style="info" %}
 As mentioned, sometimes decreasing a trait value can be a good thing. Specifically if the stat value is below 50, then decreasing it results in a greater BRS value. It's always good to move towards to extreme points on the bell-curve.
@@ -120,7 +118,7 @@ As mentioned, sometimes decreasing a trait value can be a good thing. Specifical
 
 ## Generation
 
-To construct an Endro, you need an Opifex Machine to do the process. Those machines come in a limited supply and versions. Enga Federation in charge of the production of these machines, and they produce them in generations. Which generation your Endro is from could play a role in their other traits. Overall Endros are deflationary, meaning that they are not minted them freely, and there is a limit on how many Endros are in a generation.
+To construct an Endro, you need an Opifex Machine to do the process. Those machines come in a limited supply and versions. Enga Federation is in charge of the production of these machines, and they produce them in generations. Which generation your Endro is, could play a role in their other traits. Overall Endros are deflationary, meaning that they are not minted them freely, and there is a limit on how many Endros are in a generation.
 
 {% hint style="info" %}
 Some cosmetics may only belong to a specific generation.

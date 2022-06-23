@@ -6,7 +6,7 @@ description: On-Chain Game Mechanism
 
 ## Introduction
 
-Rarity Farming is an innovative game mechanism introduced by [Aavegotchi](https://aavegotchi.com). It's an appreciation reward to those enthusiastic gamers who interact with the platform on-chain every four days.
+Rarity Farming is an innovative game mechanism introduced by [Aavegotchi](https://aavegotchi.com). It's an appreciation reward to those enthusiastic gamers who interact with the platform on-chain daily and consecutively.
 
 The following will explain how you can interact with the game and get rewarded.
 
