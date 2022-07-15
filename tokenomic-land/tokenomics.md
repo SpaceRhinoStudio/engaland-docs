@@ -16,6 +16,11 @@ The fundraising program will take effect on Engaland's official website.
 
 #### Rounds:
 
+* **Seed Sale**
+  * Minimum investment: 100 DAI
+  * Tokens to sell: 300,000 ENGA
+  * ENGA/DAI fixed price: 0.12
+  * Hardcap: 36,000 DAI
 *   **Pre Sale**
 
     * Minimum investment: 1,000 DAI
@@ -34,11 +39,12 @@ The fundraising program will take effect on Engaland's official website.
 
 ### Allocations
 
-|                 Allocation | Percentage |    ENGA   |
-| -------------------------: | :--------: | :-------: |
-|                   Pre Sale |     40%    | 2,000,000 |
-|                        DAO |     20%    | 1,000,000 |
-| Investors and Stakeholders |     40%    | 2,000,000 |
+|   Allocation | Percentage |    ENGA   |
+| -----------: | :--------: | :-------: |
+|    Seed Sale |     6%     |  300,000  |
+|     Pre Sale |     40%    | 2,000,000 |
+|          DAO |     20%    | 1,000,000 |
+| Stakeholders |     34%    | 1,700,000 |
 
 ### Vesting
 
@@ -50,9 +56,10 @@ Number of tokens released can be calculated by the following formula:
 
 |   Allocation | Cliff Start (months) | Cliff Duration (months) |
 | -----------: | :------------------: | :---------------------: |
+|    Seed Sale |           6          |            12           |
 |     Pre Sale |           6          |            18           |
-|          DAO |           6          |            18           |
-| Stakeholders |           6          |            36           |
+|          DAO |           6          |            12           |
+| Stakeholders |           6          |            24           |
 
 ## Auction fee distribution
 
