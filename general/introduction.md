@@ -6,7 +6,7 @@ description: What Are Endros?
 
 ## About Endros
 
-Endros are droids constructed by an [Obifex Machine](../gameplay/opifex-machine.md) using the blueprints and controlled by the citizens of [the Engaverse](introduction.md#engaverse). They are represented by NFTs living on Polygon network, backed by ERC-721 standard. Their values are determined by level/experience and rarity score, which is calculated based on multiple factors, such as their stats, amount of staked collateral, and equipped wearables. Endros are representatives of their own realm where they have been manufactured to mobilize a strong army.
+Endros are droids constructed by an [Opifex Machine](../gameplay/opifex-machine.md) using the blueprints and controlled by the citizens of [the Engaverse](introduction.md#engaverse). They are represented by NFTs living on Polygon network, backed by ERC-721 standard. Their values are determined by level/experience and rarity score, which is calculated based on multiple factors, such as their stats, amount of staked collateral, and equipped wearables. Endros are representatives of their own realm where they have been manufactured to mobilize a strong army.
 
 Players can participate in [games](../gameplay/games.md), and [governance](../communities/dao.md) to gain experience, upgrade, level up their Endro, and enjoy their time. You could have the rarest Endros and gain rewards in our native token, "[ENGA](../tokenomic-land/enga-token.md)", in [Rarity Farming](../gameplay/rarity-farming.md) - a completely on-chain mini-game that rewards the rarest Endros with ENGA token.
 
@@ -22,7 +22,7 @@ To clarify, staked collaterals are another term for the [Power Source](../tokeno
 
 Endros possess multiple traits. These traits are used to determine the stats, appearance, and other attributes of the Endro.
 
-* **Random Traits:** Once candidate's blueprints are indexed by the [Obifex Machine](../gameplay/opifex-machine.md), Obifex, using ChainLink VRF, evaluates the traits of the Endro. There are two types of these traits:
+* **Random Traits:** Once candidate's blueprints are indexed by the [Opifex Machine](../gameplay/opifex-machine.md), Opifex, using ChainLink VRF, evaluates the traits of the Endro. There are two types of these traits:
   1. **Appearance:** They don't affect [Rarity Score](introduction.md#rarity-score), and they are chosen randomly with an equal chance for each. These traits do not influence or affect gameplay or rarity farming in any way.
   2. **Stats and their BRS:** Stats are crucially important, and they represent the RPG elements of Engaverse. Their values are distributed on a bell curve AKA "Normal Distribution":\
      ![](../.gitbook/assets/bell-curve.png)\

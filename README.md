@@ -6,7 +6,7 @@ description: Let's Explore The New Found Universe Called Engaverse
 
 ## Introduction
 
-Engaland, the biggest planet in the Engaverse, uncharted and unexplored, is a world of unknowns and mysteries. For years, the five realms of the Engaverse attempted to explore and colonize the planet, but were unable to do so, until now. The recent invention of Obifex Machines and the development of specialized droids, known as Endros, has allowed the five realms to set foot on the planet without risking lives of their citizens.
+Engaland, the biggest planet in the Engaverse, uncharted and unexplored, is a world of unknowns and mysteries. For years, the five realms of the Engaverse attempted to explore and colonize the planet, but were unable to do so, until now. The recent invention of Opifex Machines and the development of specialized droids, known as Endros, has allowed the five realms to set foot on the planet without risking lives of their citizens.
 
 ## Enga Federation - ENGADAO
 

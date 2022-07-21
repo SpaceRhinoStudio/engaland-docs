@@ -6,7 +6,7 @@ description: Each Opifex Machine Needs A Specific Power Source To Start Running
 
 ## Introduction
 
-After you get your Obifex Machine, and have it index the candidates, the machine needs fuel to construct the Endro of your choosing, and that fuel is called "Power Source" or "Collateral". Once you provide the power source, the machine will charge up and constructs the Endro. The power source is not burnt, but rather stored inside the Endro, and as the time goes on the power source will increase in amount. However, upon the destruction or burning of the Endro, the power source will be returned to you.
+After you get your Opifex Machine, and have it index the candidates, the machine needs fuel to construct the Endro of your choosing, and that fuel is called "Power Source" or "Collateral". Once you provide the power source, the machine will charge up and constructs the Endro. The power source is not burnt, but rather stored inside the Endro, and as the time goes on the power source will increase in amount. However, upon the destruction or burning of the Endro, the power source will be returned to you.
 
 In other words, the power source is a type of staking token which, just like any other type of staking, provides rewards for the staker.
 
