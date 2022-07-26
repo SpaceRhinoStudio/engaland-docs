@@ -37,7 +37,7 @@ The fundraising program will take effect on Engaland's official website.
 
     At this phase, ENGA/DAI pair will be available for everyone to buy and sell using Engaland's bonding curve with the initial listing price of **0.25** DAI per ENGA.
 
-### Allocations
+### Initial Supply
 
 |   Allocation | Percentage |    ENGA   |
 | -----------: | :--------: | :-------: |
@@ -61,7 +61,7 @@ Number of tokens released can be calculated by the following formula:
 |          DAO |           6          |            12           |
 | Stakeholders |           6          |            24           |
 
-## Auction fee distribution
+## Protocol Revenue
 
 At each NFT drop phase, players can purchase NFTs through our auction house. Any purchase from **Engaland main seller (replace with a better name)** will allocate the spent tokens on different parts of the protocol, listed in the following table:
 
