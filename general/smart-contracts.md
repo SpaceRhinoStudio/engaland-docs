@@ -2,13 +2,13 @@
 
 ## Fundraising
 
-There are multiple contracts which form the fundraising part of our app. They are Automated Market Maker (AMM), Tap Mechanism, Pre-Sale, Bancor Formula, Token Manager, Enga Token and finally Controller. There are also some vaults for DAO, Stake Holders (please refer to [tokenomic](../tokenomic-land/tokenomics.md#allocations) for more info), Team (we call it Beneficiary), and Reserve. They all have their own permissions and access level, for example no one has access on the Reserve vault expect the AMM contract. All important contracts are governed and secured by a Multisig contract consisted of at least 4 members to prevent any malicious activities and secure our contracts. Not any of individual core members have complete access on contracts.
-
-### Multisig
-
-A contract to which initially passed core members as the owners. All important settings of the app is controlled and secured by it. It's worth mentioning that we will add another Multisig to let our main DAO participants take control over the most of the smart contracts and settings of the app.
+There are multiple contracts which form the fundraising part of our app. They are Automated Market Maker (AMM), Tap Mechanism, Pre-Sale, Bancor Formula, Token Manager, Enga Token and finally Controller. There are also some vaults for DAO, Stake Holders (please refer to [tokenomic](../tokenomic-land/tokenomics.md#allocations) for more info), Team (we call it Beneficiary), and Reserve. They all have their own permissions and access level, for example no one has access on the Reserve vault expect the AMM contract. All important contracts are governed and secured by [Gnosis Safe](https://gnosis-safe.io/) consisted of at least 4 members to prevent any malicious activities and secure our contracts. None of individual core members have extra access to the contracts.
 
 Contract Address:
+
+### Gnosis Safe
+
+The most trusted multisig wallet which also act as team's vault and has the full control on the protocol. You can read more about Gnosis Safe [here](https://gnosis-safe.io/).
 
 ### Enga Token
 
@@ -21,10 +21,6 @@ Contract Address:
 Token Manager is somehow the owner of the Enga Token as well as the container of all the vesting created by the pre-sale , and initial token allocation.
 
 Contract Address:
-
-### Beneficiary Vault
-
-A vault that belongs to the company, some poertion of pre-sale fundraising will be deposited here and the rest will be held in the reserve vault.
 
 ### Treasury Vault
 
@@ -40,13 +36,21 @@ Contract Address:
 
 ### Stake Holder Vault
 
-It's an another vault that belongs to [Stake Holders](../tokenomic-land/tokenomics.md#allocations).
+It's another vault that belongs to [Stake Holders](../tokenomic-land/tokenomics.md#allocations).
 
 Contract Address:
 
+### Seed Sale
+
+A contract that controls our seed-sale and makes vesting for participants in itself.
+
+Contract Address:
+
+Please read [Tokenomic ](../tokenomic-land/tokenomics.md)section for more details about seed-sale.
+
 ### Pre Sale
 
-A contract that controls our private sale and makes vesting for participants in Token Manager.
+A contract that controls our pre-sale and makes vesting for participants in Token Manager.
 
 Contract Address:
 
@@ -78,6 +82,6 @@ Contract Address:
 
 ### Controller
 
-A contract that controls every thing, and 99 percent of write operations and transactions including contributions, buy/sell and etc. will go through this contract as the owner of all contracts we have listed above.
+A contract that controls everything, and 99 percent of write operations and transactions including contributions, buy/sell and etc. will go through this contract as the owner of all contracts we have listed above. Having Controller deployed means we are ready to go and the protocol has been functioning.
 
 Contract Address:
