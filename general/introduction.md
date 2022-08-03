@@ -24,7 +24,7 @@ Endros possess multiple traits. These traits are used to determine the stats, ap
 
 * **Random Traits:** Once candidate's blueprints are indexed by the [Opifex Machine](../gameplay/opifex-machine.md), Opifex, using ChainLink VRF, evaluates the traits of the Endro. There are two types of these traits:
   1. **Appearance:** They don't affect [Rarity Score](introduction.md#rarity-score), and they are chosen randomly with an equal chance for each. These traits do not influence or affect gameplay or rarity farming in any way.
-  2. **Stats and their BRS:** Stats are crucially important, and they represent the RPG elements of Engaverse. Their values are distributed on a bell curve aka "Normal Distribution":\
+  2. **Stats and their BRS:** Stats are crucially important, and they represent the RPG elements of Engaverse. Their values are distributed on a bell curve AKA "Normal Distribution":\
      ![](../.gitbook/assets/bell-curve.png)\
      Depending on its rarity, each stat is assigned a value of Common, Uncommon, Rare or Mythical, which represents a numeric value in the range of 0 to 99. The stats are Strength, Dexterity, Constitution, Mentality, Common-Skills (CS), and Aggressiveness. Every stat has at least a minimum value of 50 for its Base Rarity Score aka BRS. For example if generated random number for stat is 2, then based on the formula below, the in-game stat value and its respective BRS is 97. In other words, a low value like 1 is not considered bad, on the contrary, it is as good as number 98. BRS is calculated like the following:\
      `if randomNumber >= 50 return randomNumber;`\
@@ -76,7 +76,7 @@ In addition, it's good to mention that the chipset cards are modifying raw value
 
 ## Consumables
 
-Yet another group of NFTs are consumables, meaning they are burnt when they are used. Think of them as potions, boosters and so on.
+Yet another group of NFTs that are consumable, meaning they are burnt when they are used. Think of them as potions, boosters and so on.
 
 {% hint style="success" %}
 **Simple Consumables**
@@ -108,4 +108,4 @@ As we mentioned above in the [Traits](introduction.md#traits) section, Rarity Sc
 
 ## ENGAVERSE
 
-Engaverse is a newly found universe that is under the control of five realms. Every [realm](../gameplay/characteristic-of-realms.md) having their own personality, backgrounds, and culture, they have formed an association to explore Engaland - a dangerous and unexplored planet that no realm has control over - to tame and colonize the planet. There will be expeditions and missions for Endros to gain experience and grow their XP level to unlock items such as [Chipset Cards](../gameplay/wearables/chipset-cards.md), and [Cosmetic Wearables](../gameplay/wearables/cosmetics.md) which are used to upgrade and strengthen your Endros in rarity farming and games. For more information please read [Where is ENGALAND](../).
+Engaverse is a newly found universe that is under the control of five realms. Every realm having their own personality, backgrounds, and culture, they have formed an association to explore Engaland - a dangerous and unexplored planet that no realm has control over - to tame and colonize the planet. There will be expeditions and missions for Endros to gain experience and grow their XP level to unlock items such as [Chipset Cards](../gameplay/wearables/chipset-cards.md), and [Cosmetic Wearables](../gameplay/wearables/cosmetics.md) which are used to upgrade and strengthen your Endros in rarity farming and games. For more information please read [Where is ENGALAND](../).

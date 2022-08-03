@@ -20,10 +20,10 @@ Owned by the Enga Federation, Engaland has yet to be tamed and conquered by anyo
 
 Opifex Machines were invented by a team of the best scientists and engineers of the five realms, under the leadership of the Enga Federation. These machines are built only for the purpose of exploring Engaland, however, the materials needed to build them are in a short supply. These machines are able to construct specialized droids, known as Endros, as long as they are provided with the materials, blueprints, and the fuel needed to build them.
 
-Endros are the most advanced droids in the Engaverse, however, this technology is still under development, and with each generation, Endros are fine-tuned to specialize in specific tasks. Endros do not have a mind of their own, and each Endro is designed to be operated by citizens of the five realms.
+Endros are the most advanced droids in the Engaverse, however, this technology is still under development, and with each generation, Endros are fine-tuned to specialize in specific tasks. Endros do not have a mind of their own, and each Endro is designed to be controlled by a citizen of the five realms, usually the citizen that provides the blueprints for the Endro.
 
-## [Realms](gameplay/characteristic-of-realms.md)
+## Realms
 
 The five realms of the Engaverse refers to the five distinct planets which seem to be the only planets hosting intelligent and sentient beings. Each realm has their own unique culture and way of life, and the process of unifying their home planets was different for each realm.
 
-Due to evolving separately from each other, citizens of each realm have distinct characteristics, talents, and skills. Their role is to control, operate and develop Endros gradually.
+Due to evolving separately from each other, citizens of each realm have distinct characteristics, talents, and skills. Their role is to control and develop Endros gradually.
