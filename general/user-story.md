@@ -44,8 +44,6 @@ At the federation you can see proposals and how much voting power you may have. 
 
 ### Play
 
-The functionality of Play is not implemented yet, and it will redirect you to the dapp. As soon as the desktop applications are ready, you will be able to use the button to launch games.
-
-## User Flow
+The functionality of Play is not implemented yet, and it will redirect you to the dapp. As soon as the on-chain squad builder game were ready, you will be able to play them. Also we are making  steam-quality games for desktops so you could play them too.
 
 We are going to simulate a synthetic player who knows little about the platform.
