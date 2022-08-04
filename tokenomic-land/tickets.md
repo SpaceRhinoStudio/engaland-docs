@@ -16,19 +16,18 @@ Before going further, it's worth mentioning that raffles and draws also use Chai
 
 Once you have enough Solar, you can buy tickets on the Dapp. Solar, as was mentioned in the [Staking](staking.md) section, is not transferable and, it can only be used by the owner. Although, once you use your Solar to purchase tickets, you can list those tickets on a marketplace or use them in raffles.
 
-There are five main categories of tickets:
+There are four main categories of tickets:
 
 * Cosmetic Raffles
 * Chipset Card Raffles
 * Consumables
-* Accoutrement Card Raffles (not used yet)
 * Drop Tickets
 
 Just like the rarity types of [Cosmetics](../gameplay/wearables/cosmetics.md) and [Chipset Cards](../gameplay/wearables/chipset-cards.md), tickets for cosmetics and chipset cards are also divided into Common, Uncommon, Rare, Legendary, Mythical, and Celestial, with each one giving you a wearable of the same rarity.
 
 Consumables are potions and boosters that help your Endro progress quicker.
 
-Drop tickets are another method players have access to for obtaining an Endro.
+Drop tickets are another method to which players have access for obtaining an Endro.
 
 {% hint style="danger" %}
 Users are allowed to buy tickets of different categories in a single transaction. You do **not** need to create separate buy transactions for each type of raffle ticket.

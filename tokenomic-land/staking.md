@@ -6,7 +6,7 @@ description: It's Time To Meet Solar
 
 ## Introduction
 
-Staking is the process of locking up your tokens in return for rewards. By staking ENGA token in the dapp, you can gain Solar which is not transferable and only belongs to you.
+Staking is the process of locking up your tokens in return for rewards. By staking ENGA token in the dapp, you can gain Solar which is a non transferable asset and only belongs to you.
 
 To start your opifex machine and construct your Endro, you have to stake a minimum amount of ENGA or other LPs (as soon as they are added), which lets you earn rewards based on the [tokenomic](tokenomics.md). Subsequently, the value of your Endro will grow, as the rewards you gain on your Endro's staking are accumulated. At any moment, should you wish, you can burn your Endro to withdraw the rewards and the ENGA or LP you had staked.
 

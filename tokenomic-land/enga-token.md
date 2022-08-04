@@ -6,7 +6,7 @@ description: A Token For Every One And Every Thing
 
 ## Introduction
 
-How does the ecosystem work?
+How does the protocol work?
 
 What gives value to these assets?
 
@@ -18,7 +18,7 @@ ENGA is here to fill the gaps. You can use it to buy various on-chain assets lik
 
 ENGA is used to orchestrate an ecosystem between ENGADAO, NFT holders, and token holders in order to incentivize the users to participate more.
 
-Players need ENGA tokens to build, train, and upgrade their Endro. A portion of this token is transferred directly to ENGADAO to continue the development of the project. Meanwhile, the remaining amount is distributed as rewards between governance and users who have engaged in [Rarity Farming](../gameplay/rarity-farming.md).
+Players need ENGA to build, train, and upgrade their Endro. A portion of this token is transferred directly to ENGADAO to continue the development of the project. Meanwhile, the remaining amount is distributed as rewards between governance and users who have engaged in [Rarity Farming](../gameplay/rarity-farming.md).
 
 That has been explained more in detail in the [Tokenomic](tokenomics.md) section.
 

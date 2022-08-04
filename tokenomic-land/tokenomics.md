@@ -32,7 +32,7 @@ The fundraising program will take effect on Engaland's official website.
 
     This round is a whitelisted sale phase intended for raising funds for development and growth of the Engaland. All of the investments will be allocated to the SpaceRhino Studio the owner of the Engaland and the initial reserve of the bonding curve.
 
-    Participants of this round will be elected as **PLACEHOLDER** DAO members, who can propose protocol changes and approve smart contract upgrades.
+    Participants of this round will be elected as councilor, who can propose protocol changes and approve smart contract upgrades.
 *   **Public Sale**
 
     At this phase, ENGA/DAI pair will be available for everyone to buy and sell using Engaland's bonding curve with the initial listing price of **0.25** DAI per ENGA.
@@ -63,7 +63,7 @@ Number of tokens released can be calculated by the following formula:
 
 ## Protocol Revenue
 
-At each NFT drop phase, players can purchase NFTs through our auction house. Any purchase from **Engaland main seller (replace with a better name)** will allocate the spent tokens on different parts of the protocol, listed in the following table:
+At each NFT drop phase, players can purchase NFTs through our auction house. Any purchase from **Engaland** will allocate the spent tokens on different parts of the protocol, listed in the following table:
 
 |    Distribution | Percentage |
 | --------------: | :--------: |
