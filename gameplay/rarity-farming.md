@@ -47,7 +47,7 @@ Chipset Cards on the other hand change the value of stat as a modifier, which wi
 
 Aavegotchi has come up with a great idea that focuses on how you as a player must be aware of other players' strategies to have the best rarity score. It is called Absolute Rarity Score (ARS). ARS is a mechanism that incentivizes players to have a strategy in upgrading their stats. Meaning, upgrading the stat towards their maximum/minimum value (99 or 1) will not necessarily result in a better rarity score, as the ARS of that value might be low. The way ARS works is rather complex, but using an example might help you better grasp the concept.
 
-For example if a considerable number players have trained their Endro to have the highest Aggressiveness level, then the ARS for that high Aggressiveness level will be lower than that of the lowest Aggressiveness Level, since it would not be rare anymore.
+For example if a considerable number of players have trained their Endro to have the highest Aggressiveness level, then the ARS for that high Aggressiveness level will be lower than that of the lowest Aggressiveness Level, since it would not be rare anymore.
 
 {% hint style="danger" %}
 ARS has not been included yet in our project yet, but you should be aware of it. How much it influences and the formula to calculate ARS is being discussed.
@@ -83,13 +83,13 @@ As mentioned previously, the formula for deriving ARS is not specified yet. ARS 
 
 ## Rewards
 
-Based on the tokenomics, In each season of Rarity Farming, the rarest Endros will be rewarded with a number of ENGA tokens.
+Based on the [tokenomics](../tokenomic-land/tokenomics.md#protocol-revenue), In each season of Rarity Farming, the rarest Endros will be rewarded with a number of ENGA tokens.
 
 At the moment, there are three categories of rarity farming rewards, however that could be expanded in the future by the Enga Federation. The categories are as follows:
 
 * Endro [Rarity Score](traits.md#rarity-score) (BRS, ARS is not included yet)
 * Endro [Zeal](traits.md#zeal) value
-* Endro [Experience](traits.md#experience)
+* Endro [Experience and Level](traits.md#experience)
 
 For each category, rewards are distributed based on a descending curve, top Endros will receive more rewards than other Endros who are positioned lower on the curve. Also, there is a limit on the number of Endros that can receive a reward.
 

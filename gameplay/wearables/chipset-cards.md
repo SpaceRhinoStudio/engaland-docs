@@ -11,7 +11,7 @@ Chipset Cards are stat modifiers. They are equipped to slightly change the value
 There is a limit on how effective a Chipset Card could be, and that limit is determined by the [Zeal](../traits.md#zeal) of the Endro. As an example, if the Zeal is on a level where the limit is +/-5, and you equip four +3 Mentality Chipset Cards, you will not be able to increase your Endro's Mentality by more than +5.
 
 {% hint style="info" %}
-Chipset Cards require a minimum amount of rarity score as well as XP level to be equipped.
+Chipset Cards may require a minimum amount of rarity score as well as XP level to be equipped.
 {% endhint %}
 
 To find out more about chipset cards and their modifiers, you can visit here.
