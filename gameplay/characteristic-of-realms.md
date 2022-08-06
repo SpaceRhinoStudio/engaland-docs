@@ -36,9 +36,9 @@ Zeal modifier is a bonus value that each realm is given when Zeal action has bee
 
 ### Zeal Decay
 
-Zeal mechanism is an on-chain action and if the player doesn't look after its Endro in successive days it could decrease which has other consequences such as not be able to win Zeal Rarity Farming rewards and/or have an strict confiner on Endro's stat modifiers (Chipset Cards). Decay will happen in period of five days, meanwhile if an interaction with the Endro is done, decay mechanism will reset and starts from the last interaction. The player can do Zeal action every 48 hour.
+Zeal mechanism is an on-chain action and if the player doesn't look after its Endro in successive days it could be decreased which has other consequences such as not be able to win Zeal Rarity Farming rewards and/or have a higher strict confiner on Endro's stat modifiers (Chipset Cards). Decay will happen in period of five days, meanwhile if an interaction with the Endro is done, decay mechanism will reset and starts from the last interaction. The player can do Zeal action every 48 hour.
 
-|   Realm  |           120-hour Zeal Decay          |
+|   Realm  |       120-hour (5 Day) Zeal Decay      |
 | :------: | :------------------------------------: |
 |    UFM   | -5 per each 120-hour period inactivity |
 |  Magesta | -2 per each 120-hour period inactivity |
@@ -50,7 +50,9 @@ It means for example if an UFM Endro isn't received Zeal operation for 10 succes
 
 ### XP Bonus
 
-Each Endro can gain maximum 10 XP per day by playing the games and participating in DAO or using consumables. Although there is a bonus modifier for each realm.
+Each Endro can gain maximum 10 XP per day by playing the games or using consumables (participation in DAO can give your Endro more XP too).&#x20;
+
+Although there is a bonus modifier for each realm.
 
 |   Realm  | XP Bonus |
 | :------: | :------: |

@@ -30,7 +30,9 @@
   * [Chipset Cards](gameplay/wearables/chipset-cards.md)
 * [Consumables](gameplay/consumables.md)
 * [Rarity Farming](gameplay/rarity-farming.md)
-* [Games](gameplay/games.md)
+* [Games](gameplay/games/README.md)
+  * [Squad Builder](gameplay/games/squad-builder.md)
+  * [Engaland](gameplay/games/engaland.md)
 * [Characteristic Of Realms](gameplay/characteristic-of-realms.md)
 * [Marketplace](gameplay/marketplace.md)
 
