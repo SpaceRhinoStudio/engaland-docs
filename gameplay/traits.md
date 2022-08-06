@@ -116,9 +116,30 @@ Every one level up, Endros receive an amount of Merit Points that can be used on
 As mentioned, sometimes decreasing a trait value can be a good thing. Specifically if the stat value is below 50, then decreasing it results in a greater BRS value. It's always good to move towards to extreme points on the bell-curve.
 {% endhint %}
 
+### Reward Per Leveling Up
+
+Reward calculates as follows:
+
+```
+function meritPointRewardPerLevel(level) {
+  return 2 + Math.floor(level / 10)
+}
+```
+
+### Cost Per Stat Update
+
+To update a stat, increasing or decreasing, players must pay merit point based on table below.
+
+|   Rarity | Merit Cost |
+| -------: | :--------: |
+|   Common |      5     |
+| Uncommon |     10     |
+|     Rare |     15     |
+| Mythical |     30     |
+
 ## Generation
 
-To construct an Endro, you need an Opifex Machine to do the process. Those machines come in a limited supply and versions. Enga Federation is in charge of the production of these machines, and they produce them in generations. Which generation your Endro is, could play a role in their other traits. Overall Endros are deflationary, meaning that they are not minted them freely, and there is a limit on how many Endros are in a generation.
+To construct an Endro, you need an Opifex Machine to do the process. Those machines come in a limited supply and versions. Enga Federation is in charge of the production of these machines, and they produce them in generations. Which generation your Endro is, could play a role in their other traits. Overall Endros are deflationary, meaning that they are not minted freely, and there is a limit on how many Endros are in a generation.
 
 {% hint style="info" %}
 Some cosmetics may only belong to a specific generation.
