@@ -1,6 +1,6 @@
 # About Us
 
-
+## Team
 
 #### Lukas | `marketing lead` `advisor`
 
@@ -8,5 +8,5 @@
 
 #### Mehdi Zarei (aka Kovic) | `software engineer` `game developer`
 
-* LinkedIn: [Mehdi Zarei](https://www.linkedin.com/in/mehdi-zarei/)
-* GitHub: [Kovic](https://github.com/Mehdikovic)
+* [LinkedIn](https://www.linkedin.com/in/mehdi-zarei/)
+* [GitHub](https://github.com/Mehdikovic)
