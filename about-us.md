@@ -20,3 +20,9 @@
 
 * [LinkedIn](https://www.linkedin.com/in/mehdi-rahmati/)
 * [Dribble](https://dribbble.com/Mehdirahmati)
+
+#### Lynnette (aka Lily) | `frontend/web3 developer`
+
+* [Telegram](https://t.me/clonomaer)
+* [GitHub](https://github.com/clonomaer)
+* [Wakatime](https://wakatime.com/@clonomaer)
