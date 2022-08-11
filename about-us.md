@@ -16,6 +16,11 @@
 * [LinkedIn](https://www.linkedin.com/in/shayan-gashtasbi-5383b471/)
 * [GitHub](https://github.com/klaushayan)
 
+**Kaveh Pzh (aka Dante) | `Lead Artist`**
+
+* [Telegram](https://t.me/kavehpzh)
+* [GitHub](https://github.com/kavehpzh)
+
 #### Mehdi Rahmati | `UX/UI designer`
 
 * [LinkedIn](https://www.linkedin.com/in/mehdi-rahmati/)
