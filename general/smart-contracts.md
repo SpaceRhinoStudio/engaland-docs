@@ -4,8 +4,6 @@
 
 There are multiple contracts which form the fundraising part of our app. They are Automated Market Maker (AMM), Tap Mechanism, Pre-Sale, Bancor Formula, Token Manager, Enga Token and finally Controller. There are also some vaults for DAO, Stake Holders (please refer to [tokenomic](../tokenomic-land/tokenomics.md#allocations) for more info), and Reserve. They all have their own permissions and access level, for example no one has access to the Reserve vault expect the AMM contract. All contracts are governed and secured by [Gnosis Safe](https://gnosis-safe.io/) to prevent any malicious activities. None of individual members have extra access to the contracts.
 
-Contract Address:
-
 ### Gnosis Safe
 
 The most trusted multisig wallet which also act as team's vault and has the full control on the protocol. You can read more about Gnosis Safe [here](https://gnosis-safe.io/).
