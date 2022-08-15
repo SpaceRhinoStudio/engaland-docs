@@ -17,7 +17,7 @@ The fundraising program will take effect on Engaland's official website.
 #### Rounds:
 
 * **Seed Sale**
-  * Minimum investment: 10 DAI
+  * Minimum investment: 100 DAI
   * Tokens to sell: 300,000 ENGA
   * ENGA/DAI fixed price: 0.12
   * Hardcap: 36,000 DAI
@@ -26,7 +26,7 @@ This round is a whitelisted sale phase intended for raising funds for marketing 
 
 *   **Pre Sale**
 
-    * Minimum investment: 100 DAI
+    * Minimum investment: 1000 DAI
     * Tokens to sell: 2,000,000 ENGA
     * ENGA/DAI fixed price: 0.15
     * Hardcap: 300,000 DAI
