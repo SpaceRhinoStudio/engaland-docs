@@ -50,7 +50,7 @@ Please read [Tokenomic ](../tokenomic-land/tokenomics.md)section for more detail
 
 A contract that controls our pre-sale and makes vesting for participants in Token Manager.
 
-Contract Address: [0xd79643eF39B17380c8092e4a5086861F94ed4331](https://polygonscan.com/address/0xd79643eF39B17380c8092e4a5086861F94ed4331)
+Contract Address: [0xdF7004a3fE2C45682814e17a064d55F81Dbd1FDe](https://polygonscan.com/address/0xdF7004a3fE2C45682814e17a064d55F81Dbd1FDe)
 
 Please read [Tokenomic ](../tokenomic-land/tokenomics.md)section for more details about pre-sale.
 
