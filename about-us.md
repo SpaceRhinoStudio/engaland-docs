@@ -2,10 +2,6 @@
 
 ## Team
 
-#### Lukas | `marketing lead` `advisor`
-
-* [Telegram](https://t.me/lukas\_enga)
-
 #### Mehdi Zarei (aka Kovic) | `software engineer` `game developer` `solidity developer`
 
 * [LinkedIn](https://www.linkedin.com/in/mehdi-zarei/)
